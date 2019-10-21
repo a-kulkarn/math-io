@@ -1,8 +1,4 @@
 
-module stupyder
-
-using Hecke
-using Crayons
 
 export @m2
 
@@ -98,8 +94,3 @@ macro m2(n)
 error("bad input to macro.")
 end
 
-end
-
-using stupyder
-
-nothing
