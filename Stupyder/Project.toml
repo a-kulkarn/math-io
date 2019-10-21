@@ -1,0 +1,4 @@
+name = "Stupyder"
+uuid = "7a0dd4f7-d145-4d35-8895-04ac9ac57473"
+authors = ["Avi Kulkarni <avinash@mis.mpg.de>"]
+version = "0.1.0"
