@@ -2,3 +2,7 @@ name = "Stupyder"
 uuid = "7a0dd4f7-d145-4d35-8895-04ac9ac57473"
 authors = ["Avi Kulkarni <avinash@mis.mpg.de>"]
 version = "0.1.0"
+
+[deps]
+Crayons = "a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f"
+Hecke = "3e1990a7-5d81-5526-99ce-9ba3ff248f21"
